@@ -1,3 +1,4 @@
 *.png
 .venv
-output/*.jpg
+output/**/*.jpg
+__pycache__
